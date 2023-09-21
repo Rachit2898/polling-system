@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "NODE_ENV=production node index.js",
-    "serve": "./node_modules/.bin/netlify-lambda serve src"
-},
+    "start": "node index.js"
+  },
   "author": "rachit",
   "license": "ISC",
   "dependencies": {
